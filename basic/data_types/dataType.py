@@ -1,8 +1,8 @@
 # print("Brajesh Lovanshi")
 
-#  a = 10
-# b = 10
-# sum = a + b
+a = 10
+b = 10
+sum = a + b
 
 # variable
 num = 10;
