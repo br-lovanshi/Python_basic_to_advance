@@ -43,14 +43,14 @@ Each topic has:
 - **Solved Problems:**  
   - [ ] [Leetcode 704: Binary Search](https://leetcode.com/problems/binary-search/)
   - [ ] [Leetcode 33: Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
-  - [] [Find in Mountain Array] (https://leetcode.com/submissions/detail/1594264486/)
-  - [] [Peak Index in a Mountain Array] (https://leetcode.com/submissions/detail/1594214185/)
-  - [] [Find Peak Element] (https://leetcode.com/submissions/detail/1594139855/)
-  - [] [Ceiling and Floor number] (https://www.geeksforgeeks.org/ceiling-in-a-sorted-array/, https://www.naukri.com/code360/problems/ceiling-in-a-sorted-array_1825401?leftPanelTabValue=SUBMISSION)
-  - [] [Find First and Last Position of Element in Sorted Array] (https://leetcode.com/submissions/detail/1593118638/)
-  - [] [Search in Rotated Sorted Array] (https://leetcode.com/submissions/detail/1593897478/)
-  - [] [Find Smallest Letter Greater Than Target] (https://leetcode.com/submissions/detail/1591697009/)
-  - [] [] ()
+  - [ ] [Find in Mountain Array] (https://leetcode.com/submissions/detail/1594264486/)
+  - [ ] [Peak Index in a Mountain Array] (https://leetcode.com/submissions/detail/1594214185/)
+  - [ ] [Find Peak Element] (https://leetcode.com/submissions/detail/1594139855/)
+  - [ ] [Ceiling and Floor number] (https://www.geeksforgeeks.org/ceiling-in-a-sorted-array/, https://www.naukri.com/code360/problems/ceiling-in-a-sorted-array_1825401?leftPanelTabValue=SUBMISSION)
+  - [ ] [Find First and Last Position of Element in Sorted Array] (https://leetcode.com/submissions/detail/1593118638/)
+  - [ ] [Search in Rotated Sorted Array] (https://leetcode.com/submissions/detail/1593897478/)
+  - [ ] [Find Smallest Letter Greater Than Target] (https://leetcode.com/submissions/detail/1591697009/)
+  - [ ] [Infinite Sorted Array] (https://www.geeksforgeeks.org/find-position-element-sorted-array-infinite-numbers/)
 ---
 
 ### 📍 Kadane's Algorithm
@@ -68,7 +68,7 @@ Each topic has:
   - O(n)
 - **Solved Problems:**  
   - [ ] [Leetcode 53: Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
-
+  - [ ] [] ()
 ---
 
 ### 📍 2D Arrays
