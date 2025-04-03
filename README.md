@@ -42,7 +42,6 @@ Each topic has:
   - **Worst & Average case:** O(log n)
 - **Solved Problems:**  
   - [ ] [Leetcode 704: Binary Search](https://leetcode.com/problems/binary-search/)
-  - [ ] [Leetcode 33: Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
   - [ ] [Find in Mountain Array] (https://leetcode.com/submissions/detail/1594264486/)
   - [ ] [Peak Index in a Mountain Array] (https://leetcode.com/submissions/detail/1594214185/)
   - [ ] [Find Peak Element] (https://leetcode.com/submissions/detail/1594139855/)
@@ -51,6 +50,13 @@ Each topic has:
   - [ ] [Search in Rotated Sorted Array] (https://leetcode.com/submissions/detail/1593897478/)
   - [ ] [Find Smallest Letter Greater Than Target] (https://leetcode.com/submissions/detail/1591697009/)
   - [ ] [Infinite Sorted Array] (https://www.geeksforgeeks.org/find-position-element-sorted-array-infinite-numbers/)
+ 
+  
+### 📍 Rotated and Sorted Array
+  - [ ] [Find Minimum Element in Sorted and Rotated Array] (https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
+  - [ ] [Leetcode 33: Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+  - [ ] [Find K Rotation] (https://takeuforward.org/arrays/find-out-how-many-times-the-array-has-been-rotated/)
+  - [ ] 
 ---
 
 ### 📍 Kadane's Algorithm
