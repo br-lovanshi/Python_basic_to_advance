@@ -1,3 +1,4 @@
+
 from typing import List
 class Solution:
 
@@ -44,3 +45,16 @@ class Solution:
 sol = Solution()
 arr = [1,5,2,0]
 print(sol.peakIndexInMountainArray(arr,2))
+
+# https://leetcode.com/problems/find-in-mountain-array/
+class Solution:
+    def peakIndex(arr):
+        start, end = 0, len(arr) - 1
+        while start < end:
+            mid = (start + end) // 2
+            if arr[mid] < arr[mid + 1]:
+                start = mid + 1
+            else:
+                end = mid
+        return start
+
