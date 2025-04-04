@@ -56,7 +56,7 @@ Each topic has:
   - [ ] [Find Minimum Element in Sorted and Rotated Array] (https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
   - [ ] [Leetcode 33: Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
   - [ ] [Find K Rotation] (https://takeuforward.org/arrays/find-out-how-many-times-the-array-has-been-rotated/)
-  - [ ] 
+  - [ ] [Check if Array Is Sorted and Rotated] (https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/submissions/)
 ---
 
 ### 📍 Kadane's Algorithm
