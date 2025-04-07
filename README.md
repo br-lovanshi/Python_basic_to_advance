@@ -50,6 +50,7 @@ Each topic has:
   - [ ] [Search in Rotated Sorted Array] (https://leetcode.com/submissions/detail/1593897478/)
   - [ ] [Find Smallest Letter Greater Than Target] (https://leetcode.com/submissions/detail/1591697009/)
   - [ ] [Infinite Sorted Array] (https://www.geeksforgeeks.org/find-position-element-sorted-array-infinite-numbers/)
+
  
   
 ### 📍 Rotated and Sorted Array
@@ -58,6 +59,48 @@ Each topic has:
   - [ ] [Find K Rotation] (https://takeuforward.org/arrays/find-out-how-many-times-the-array-has-been-rotated/)
   - [ ] [Check if Array Is Sorted and Rotated] (https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/submissions/)
 ---
+
+
+
+### 📍 Bubble Sort
+
+- 📌 **Priority:** Medium
+- **What is Bubble Sort?**\
+  Bubble Sort is a simple comparison-based algorithm where each pair of adjacent elements is compared and swapped if they are in the wrong order.
+- **Time Complexity:** O(n²), Best Case O(n) when array is already sorted.
+- **Solved Problems:**
+  - ✅ [Bubble Sort – TakeUForward](https://takeuforward.org/data-structure/bubble-sort-algorithm/)
+
+### 📍 Selection Sort
+
+- 📌 **Priority:** Medium
+- **What is Selection Sort?**\
+  Selection Sort selects the smallest (or largest) element from the unsorted part and swaps it with the first unsorted element.
+- **Time Complexity:** O(n²)
+- **Solved Problems:**
+  - ✅ [Selection Sort – TakeUForward](https://takeuforward.org/sorting/selection-sort-algorithm/)
+
+### 📍 Insertion Sort
+
+- 📌 **Priority:** Medium
+- **What is Insertion Sort?**\
+  Insertion Sort builds the sorted array one element at a time by comparing and inserting elements into their correct position.
+- **Time Complexity:** O(n²), Best Case O(n)
+- **Solved Problems:**
+  - ✅ [Insertion Sort – TakeUForward](https://takeuforward.org/data-structure/insertion-sort-algorithm/)
+
+### 📍 Cycle Sort
+
+- 📌 **Priority:** High
+- **What is Cycle Sort?**\
+  Cycle Sort is an in-place, non-stable sort algorithm optimal for cases where memory writes are costly. It's mainly used when elements range from 1 to n or 0 to n.
+- **Time Complexity:** O(n)
+- **Solved Problems:**
+  - ✅ [Missing Number (LeetCode)](https://leetcode.com/problems/missing-number/)
+  - ✅ [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/submissions/1338369107/)
+  - ✅ [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+  - ✅ [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)
+
 
 ### 📍 Kadane's Algorithm
 - [ ] **Status:** _In Progress / Completed_
