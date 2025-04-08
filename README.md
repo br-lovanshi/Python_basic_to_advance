@@ -100,7 +100,7 @@ Each topic has:
   - ✅ [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/submissions/1338369107/)
   - ✅ [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
   - ✅ [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)
-
+  - ✅ [Set Mismatch](https://leetcode.com/problems/set-mismatch/description/)
 
 ### 📍 Kadane's Algorithm
 - [ ] **Status:** _In Progress / Completed_
