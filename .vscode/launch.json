@@ -5,12 +5,26 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "Recursion",
+      "request": "launch",
+      "mainClass": "Recursion",
+      "projectName": "Python_basic_to_advance_bf05c430"
+    },
+    {
       "name": "Python Debugger: Flask",
       "type": "debugpy",
       "request": "launch",
       "module": "flask",
-      "env": { "FLASK_APP": "app.py", "FLASK_DEBUG": "1" },
-      "args": ["run", "--no-debugger", "--no-reload"],
+      "env": {
+        "FLASK_APP": "app.py",
+        "FLASK_DEBUG": "1"
+      },
+      "args": [
+        "run",
+        "--no-debugger",
+        "--no-reload"
+      ],
       "jinja": true,
       "autoStartBrowser": false
     },
