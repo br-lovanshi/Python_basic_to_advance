@@ -157,3 +157,9 @@ Each topic has:
 
 This document will help in revisiting concepts quickly and keeping track of progress systematically. 🚀
 
+
+## 🌍 Connect with Me
+
+<p align="left"> <a href="mailto:brajeshlovanshi2001@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/brajesh-lovanshi-2b274220a/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://leetcode.com/br-lovanshi/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /> </a> <a href="https://dev.to/br-lovanshi"> <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /> </a> </p>
+
+---
