@@ -116,8 +116,7 @@ Each topic has:
 - **Time Complexity:**  
   - O(n)
 - **Solved Problems:**  
-  - [ ] [Leetcode 53: Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
-  - [ ] [] ()
+  - [ ] [Leetcode 53: Maximum Subarray](https://leetcode.com/problems/maximum-subarray/
 ---
 
 ### 📍 2D Arrays
