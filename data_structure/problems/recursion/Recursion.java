@@ -3,6 +3,8 @@ class Recursion{
         print(5);
         System.out.println();
         System.out.println("Factorial of 5 is: " + factorial(5));
+        System.out.println(sum(5));
+        
     }
 
     static void print(int n){
@@ -18,5 +20,13 @@ class Recursion{
             return 1;
         }
         return n * factorial(n-1);
+    }
+
+    static int sum(int n){
+        if(n == 0){
+            return n;
+        }
+        return n += sum(n-1);
+
     }
 }

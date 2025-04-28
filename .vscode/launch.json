@@ -6,6 +6,19 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Fibonacci",
+      "request": "launch",
+      "mainClass": "Fibonacci",
+      "projectName": "Python_basic_to_advance_bf05c430"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
       "name": "Recursion",
       "request": "launch",
       "mainClass": "Recursion",
