@@ -116,8 +116,7 @@ Each topic has:
 - **Time Complexity:**  
   - O(n)
 - **Solved Problems:**  
-  - [ ] [Leetcode 53: Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
-  - [ ] [] ()
+  - [ ] [Leetcode 53: Maximum Subarray](https://leetcode.com/problems/maximum-subarray/
 ---
 
 ### 📍 2D Arrays
@@ -134,6 +133,42 @@ Each topic has:
   - Varies based on operation.
 - **Solved Problems:**  
   - [ ] [Leetcode 240: Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
+
+---
+
+### 📍 Recursion  
+- [ ] **Status:** _In Progress / Completed_  
+- 📌 **Priority:** High  
+
+- **What is Recursion?**  
+  Recursion is a programming technique where a function calls itself to solve smaller instances of a problem until it reaches a base case.
+
+- **Approach:**  
+  - Break down the problem into smaller sub-problems.
+  - Define the **base case** (stopping condition).
+  - Define the **recursive case** (how to reach the base case).
+  - Make the recursive call and combine the result if needed.
+
+- **When to Use?**  
+  - When a problem can be divided into smaller, similar sub-problems (e.g., factorial, Fibonacci, tree/graph traversal).
+
+- **Why to Use?**  
+  - Makes complex problems simpler to express and solve.
+  - Essential for solving problems involving divide-and-conquer, backtracking, and tree-like structures.
+
+- **Remarks:**  
+  - Always define a clear base case to avoid infinite recursion.  
+  - Each recursive call adds a new stack frame → may cause **StackOverflow** if depth is too large.  
+  - Can often be converted to **iteration** or **dynamic programming** for optimization.
+
+- **Time Complexity:**  
+  - Varies by problem (can be exponential if overlapping subproblems are not optimized).
+
+- **Solved Problems:**  
+  - [ ] [Leetcode 509: Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)  
+  - [ ] [Leetcode 104: Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)  
+  - [ ] [Leetcode 21: Merge Two Sorted Lists (Recursive)](https://leetcode.com/problems/merge-two-sorted-lists/)  
+  - [ ] [Leetcode 70: Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 
 ---
 
@@ -157,3 +192,9 @@ Each topic has:
 
 This document will help in revisiting concepts quickly and keeping track of progress systematically. 🚀
 
+
+## 🌍 Connect with Me
+
+<p align="left"> <a href="mailto:brajeshlovanshi2001@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/brajesh-lovanshi-2b274220a/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://leetcode.com/br-lovanshi/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /> </a> <a href="https://dev.to/br-lovanshi"> <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /> </a> </p>
+
+---
