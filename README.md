@@ -93,7 +93,7 @@ Each topic has:
 
 - 📌 **Priority:** High
 - **What is Cycle Sort?**\
-  Cycle Sort is an in-place, non-stable sort algorithm optimal for cases where memory writes are costly. It's mainly used when elements range from 1 to n or 0 to n.
+  Cycle Sort is an in-place, non-stable sorting algorithm optimal for cases where memory writes are costly. It's mainly used when elements range from 1 to n or 0 to n.
 - **Time Complexity:** O(n)
 - **Solved Problems:**
   - ✅ [Missing Number (LeetCode)](https://leetcode.com/problems/missing-number/)

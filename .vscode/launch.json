@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SyclicSort",
+      "request": "launch",
+      "mainClass": "SyclicSort",
+      "projectName": "Python_basic_to_advance_bf05c430"
+    },
+    {
+      "type": "java",
       "name": "Fibonacci",
       "request": "launch",
       "mainClass": "Fibonacci",
