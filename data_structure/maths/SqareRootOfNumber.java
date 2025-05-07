@@ -11,7 +11,7 @@ public class SqareRootOfNumber {
         int ans = 0;
         while(start <= end){
             int mid = start + (end - start) / 2;
-            if((logn) mid * mid <= n){
+            if((long) mid * mid <= n){
                 ans = mid;
                 start = mid + 1;
             
