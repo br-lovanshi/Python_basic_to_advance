@@ -172,6 +172,39 @@ Each topic has:
 
 ---
 
+### 📍 Prefix Sum
+- [ ] **Status:** _In Progress / Completed_  
+- 📌 **Priority:** High  
+
+- **What is Prefix Sum?**  
+  Recursion
+
+- **Approach:**  
+  - Break down the problem into smaller sub-problems.
+  - Define the **base case** (stopping condition).
+  - Define the **recursive case** (how to reach the base case).
+  - Make the recursive call and combine the result if needed.
+
+- **When to Use?**  
+  - When a problem can be divided into smaller, similar sub-problems (e.g., factorial, Fibonacci, tree/graph traversal).
+
+- **Why to Use?**  
+  - Makes complex problems simpler to express and solve.
+  - Essential for solving problems involving divide-and-conquer, backtracking, and tree-like structures.
+
+- **Remarks:**  
+  - Always define a clear base case to avoid infinite recursion.  
+  - Each recursive call adds a new stack frame → may cause **StackOverflow** if depth is too large.  
+  - Can often be converted to **iteration** or **dynamic programming** for optimization.
+
+- **Time Complexity:**  
+  - Varies by problem (can be exponential if overlapping subproblems are not optimized).
+
+- **Solved Problems:**  
+  - [ ] [Leetcode 523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/description/)  
+
+  - [ ] [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/)
+
 ## 📌 **More Topics**
 - [ ] Two Pointers
 - [ ] Sliding Window

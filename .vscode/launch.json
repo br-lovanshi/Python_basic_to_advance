@@ -6,6 +6,118 @@
   "configurations": [
     {
       "type": "java",
+      "name": "LinerSearch",
+      "request": "launch",
+      "mainClass": "LinerSearch",
+      "projectName": "Python_basic_to_advance_bf05c430"
+    },
+    {
+      "type": "java",
+      "name": "CountZero",
+      "request": "launch",
+      "mainClass": "CountZero",
+      "projectName": "Python_basic_to_advance_bf05c430"
+    },
+    {
+      "type": "java",
+      "name": "PalindromeNumber",
+      "request": "launch",
+      "mainClass": "PalindromeNumber",
+      "projectName": "Python_basic_to_advance_bf05c430"
+    },
+    {
+      "type": "java",
+      "name": "ReverseNumber",
+      "request": "launch",
+      "mainClass": "ReverseNumber",
+      "projectName": "Python_basic_to_advance_bf05c430"
+    },
+    {
+      "type": "java",
+      "name": "DigitSum",
+      "request": "launch",
+      "mainClass": "DigitSum",
+      "projectName": "Python_basic_to_advance_bf05c430"
+    },
+    {
+      "type": "java",
+      "name": "PalindromNum",
+      "request": "launch",
+      "mainClass": "PalindromNum",
+      "projectName": "Python_basic_to_advance_bf05c430"
+    },
+    {
+      "type": "java",
+      "name": "ArmstrongNumber",
+      "request": "launch",
+      "mainClass": "ArmstrongNumber",
+      "projectName": "Python_basic_to_advance_bf05c430"
+    },
+    {
+      "type": "java",
+      "name": "PrefixSum",
+      "request": "launch",
+      "mainClass": "PrefixSum",
+      "projectName": "Python_basic_to_advance_bf05c430"
+    },
+    {
+      "type": "java",
+      "name": "ReverseDigitOfNumber",
+      "request": "launch",
+      "mainClass": "ReverseDigitOfNumber",
+      "projectName": "Python_basic_to_advance_bf05c430"
+    },
+    {
+      "type": "java",
+      "name": "DigitCount",
+      "request": "launch",
+      "mainClass": "DigitCount",
+      "projectName": "Python_basic_to_advance_bf05c430"
+    },
+    {
+      "type": "java",
+      "name": "EquilibriumIndex",
+      "request": "launch",
+      "mainClass": "EquilibriumIndex",
+      "projectName": "Python_basic_to_advance_bf05c430"
+    },
+    {
+      "type": "java",
+      "name": "SqareRootOfNumber",
+      "request": "launch",
+      "mainClass": "SqareRootOfNumber",
+      "projectName": "Python_basic_to_advance_bf05c430"
+    },
+    {
+      "type": "java",
+      "name": "Factors",
+      "request": "launch",
+      "mainClass": "Factors",
+      "projectName": "Python_basic_to_advance_bf05c430"
+    },
+    {
+      "type": "java",
+      "name": "PrimeCheck",
+      "request": "launch",
+      "mainClass": "PrimeCheck",
+      "projectName": "Python_basic_to_advance_bf05c430"
+    },
+    {
+      "type": "java",
+      "name": "NegativeAndDuplicateExceptOne",
+      "request": "launch",
+      "mainClass": "NegativeAndDuplicateExceptOne",
+      "projectName": "Python_basic_to_advance_bf05c430"
+    },
+    {
+      "type": "java",
+      "name": "bits",
+      "request": "launch",
+      "mainClass": "bits",
+      "projectName": "Python_basic_to_advance_bf05c430"
+    },
+    {
+      "type": "java",
       "name": "SyclicSort",
       "request": "launch",
       "mainClass": "SyclicSort",
