@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "LongestSumOfSizeK",
+      "request": "launch",
+      "mainClass": "data_structure.problems.sliding_window.LongestSumOfSizeK",
+      "projectName": "Python_basic_to_advance_bf05c430"
+    },
+    {
+      "type": "java",
       "name": "LinerSearch",
       "request": "launch",
       "mainClass": "LinerSearch",
