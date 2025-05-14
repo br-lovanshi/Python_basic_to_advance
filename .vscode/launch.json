@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "RotatedBinarySearch",
+      "request": "launch",
+      "mainClass": "RotatedBinarySearch",
+      "projectName": "Python_basic_to_advance_bf05c430"
+    },
+    {
+      "type": "java",
+      "name": "LongestUniqueStr",
+      "request": "launch",
+      "mainClass": "data_structure.problems.sliding_window.LongestUniqueStr",
+      "projectName": "Python_basic_to_advance_bf05c430"
+    },
+    {
+      "type": "java",
       "name": "LongestSumOfSizeK",
       "request": "launch",
       "mainClass": "data_structure.problems.sliding_window.LongestSumOfSizeK",
