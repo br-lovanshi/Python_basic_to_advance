@@ -6,6 +6,7 @@ public class LinerSearch {
         linearSearch(arr, 3, 0);
         System.out.println(isSorted(arr, 1));
         System.out.println(getList(arr,new ArrayList<>(),0,2));
+        System.out.println(getList1(arr, 0, 2));
         
     }
 
@@ -27,5 +28,18 @@ public class LinerSearch {
         if(index == arr.length-1)return list;
         if(arr[index] == target) list.add(index);
         return getList(arr, list, index+1, target);
+    }
+
+    // return list of duplicate without passing list in argument
+    public static ArrayList<Integer> getList1(int[] arr, int index, int target){
+        ArrayList<Integer> list = new ArrayList<>();
+        if(index == arr.length-1) return list;
+        if(arr[index] == target){
+            list.add(index);
+        }
+
+        ArrayList<Integer> ansList = getList1(arr, index+1, target);
+        list.addAll(ansList);
+        return list;
     }
 }
