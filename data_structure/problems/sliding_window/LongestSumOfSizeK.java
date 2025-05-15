@@ -24,3 +24,4 @@ public class LongestSumOfSizeK {
         return maxSum;
     }
 }
+// https://leetcode.com/submissions/detail/1631725220/
