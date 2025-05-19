@@ -102,6 +102,25 @@ Each topic has:
   - ✅ [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)
   - ✅ [Set Mismatch](https://leetcode.com/problems/set-mismatch/description/)
 
+### 📍 Merge Sort
+
+- 📌 **Priority:** High
+- **What is Merge Sort?**  
+  Merge Sort is a **divide and conquer** algorithm. It divides the array into halves, sorts each half, and **merges** them to produce a sorted array.
+- **Key Idea:**  
+  Recursively split the array into two halves, then **merge** them in a sorted way.
+- **Time Complexity:**  
+  - Worst: `O(n log n)`  
+  - Best: `O(n log n)`  
+  - Space: `O(n)` (not in-place by default)
+- **When to Use:**  
+  When you need guaranteed `O(n log n)` performance, especially with large datasets.
+- **Solved Problems:**
+  - ✅ [Merge Sort – TakeUForward](https://takeuforward.org/data-structure/merge-sort-algorithm/)
+  - ✅ [Sort an Array](https://leetcode.com/problems/sort-an-array/description/)
+
+
+
 ### 📍 Kadane's Algorithm
 - [ ] **Status:** _In Progress / Completed_
 - 📌 **Priority:** High
@@ -135,6 +154,50 @@ Each topic has:
   - [ ] [Leetcode 240: Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
 
 ---
+### 📍 Two Pointer Technique
+
+- 📌 **Priority:** High  
+- **What is Two Pointer Technique?**  
+  This technique uses two pointers (usually `i` and `j`) that iterate through the array to solve problems in a **linear or near-linear time**.
+
+- **When to Use:**  
+  - On sorted arrays or strings  
+  - To find pairs or subarrays  
+  - Problems like removing duplicates, finding a pair with a sum, merging arrays, etc.
+
+- **Time Complexity:** `O(n)` or `O(n log n)` depending on the problem
+
+- **Solved Problems:**
+  - ✅ [Two Pointer – GeeksforGeeks](https://www.geeksforgeeks.org/two-pointers-technique/)
+  - ✅ [Two Sum II – LeetCode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+  - ✅ [Container With Most Water – LeetCode](https://leetcode.com/problems/container-with-most-water/)
+  - ✅ [Leetcode List](https://leetcode.com/problem-list/2bxq9kfs/)
+---
+
+### 📍 Sliding Window Technique
+
+- 📌 **Priority:** High  
+- **What is Sliding Window Technique?**  
+  This technique is used to reduce nested loops to a single loop by maintaining a "window" of elements over the array or string and sliding it based on conditions.
+
+- **Types:**  
+  - 🔹 **Fixed-size window** – size `k` is constant  
+  - 🔹 **Dynamic-size window** – window expands or shrinks based on constraints (e.g., sum, characters, frequency)
+
+- **Time Complexity:** `O(n)`  
+  - You iterate through the array once using two pointers.
+
+- **When to Use:**  
+  - Maximum or minimum of subarrays  
+  - Longest/shortest substring problems  
+  - Problems involving ranges or conditions that can be checked by sliding across elements
+
+- **Solved Problems:**
+  - ✅ [Sliding Window]()
+  
+
+---
+
 
 ### 📍 Recursion  
 - [ ] **Status:** _In Progress / Completed_  
