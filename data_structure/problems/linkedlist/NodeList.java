@@ -87,7 +87,18 @@ public class NodeList{
         }
         return prev;
     }
-    
+
+     public Node findMiddle(){
+        if(head == null)return null;
+        Node slow = head;
+        Node fast = head;
+        while(fast != null && fast.next != null){
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+        return slow;
+    }
+
     public void delete(int value){
         if(head != null && head.data == value){
             head = head.next;
@@ -97,7 +108,7 @@ public class NodeList{
 
 
     public static void main(String[] args) {
-        NodeList list = new NodeList()
+        NodeList list = new NodeList();
         list.addAtLast(2);
         list.addAtLast(3);
         list.addAtLast(4);
