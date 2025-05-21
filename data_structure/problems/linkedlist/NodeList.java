@@ -74,6 +74,20 @@ public class NodeList{
         return count;
     }
 
+     // reverse list
+    // 1 -> 0 -> 2 -> 4 -> 5 ->  1 <- 0 <- 2 <- 4 <- 5
+    public Node reverse(){
+        Node curr = head;
+        Node prev = null;
+        while(curr != null){
+            Node next = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = next;
+        }
+        return prev;
+    }
+    
     public void delete(int value){
         if(head != null && head.data == value){
             head = head.next;

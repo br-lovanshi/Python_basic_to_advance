@@ -6,6 +6,62 @@
   "configurations": [
     {
       "type": "java",
+      "name": "NodeList",
+      "request": "launch",
+      "mainClass": "NodeList",
+      "projectName": "Python_basic_to_advance_bf05c430"
+    },
+    {
+      "type": "java",
+      "name": "MergeSort",
+      "request": "launch",
+      "mainClass": "MergeSort",
+      "projectName": "Python_basic_to_advance_bf05c430"
+    },
+    {
+      "type": "java",
+      "name": "MoveZero",
+      "request": "launch",
+      "mainClass": "data_structure.problems.two_pointer.MoveZero",
+      "projectName": "Python_basic_to_advance_bf05c430"
+    },
+    {
+      "type": "java",
+      "name": "RemoveDuplicate",
+      "request": "launch",
+      "mainClass": "data_structure.problems.two_pointer.RemoveDuplicate",
+      "projectName": "Python_basic_to_advance_bf05c430"
+    },
+    {
+      "type": "java",
+      "name": "ReverseArr",
+      "request": "launch",
+      "mainClass": "data_structure.problems.two_pointer.ReverseArr",
+      "projectName": "Python_basic_to_advance_bf05c430"
+    },
+    {
+      "type": "java",
+      "name": "SumEqualsK",
+      "request": "launch",
+      "mainClass": "data_structure.problems.two_pointer.SumEqualsK",
+      "projectName": "Python_basic_to_advance_bf05c430"
+    },
+    {
+      "type": "java",
+      "name": "MinimumSizeSubArr",
+      "request": "launch",
+      "mainClass": "data_structure.problems.sliding_window.MinimumSizeSubArr",
+      "projectName": "Python_basic_to_advance_bf05c430"
+    },
+    {
+      "type": "java",
+      "name": "RecursionPattern",
+      "request": "launch",
+      "mainClass": "data_structure.problems.pattern.RecursionPattern",
+      "projectName": "Python_basic_to_advance_bf05c430"
+    },
+    {
+      "type": "java",
       "name": "RotatedBinarySearch",
       "request": "launch",
       "mainClass": "RotatedBinarySearch",
