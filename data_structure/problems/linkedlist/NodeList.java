@@ -99,6 +99,21 @@ public class NodeList{
         return slow;
     }
 
+
+    // remove middle ele
+    public void removeMiddleNode(){
+        if(head == null || head.next == null) return;
+        Node prev = null;
+        Node slow = head, fast = head;
+
+        while(fast != null && fast.next != null){
+            prev = slow;
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+        prev.next = slow.next;
+    }
+    
     public void delete(int value){
         if(head != null && head.data == value){
             head = head.next;
