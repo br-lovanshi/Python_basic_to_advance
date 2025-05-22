@@ -121,6 +121,29 @@ public class NodeList{
 
     }
 
+    // merge two sorted list
+    public Node mergeSortedList(Node list1, Node list2){
+        Node dummy = new Node(-1);
+        Node tail = dummy;
+
+        while(list1 != null && list2 != null){
+            if(list1.data <= list2.data){
+                tail.next = list1;
+                list1 = list1.next;
+            }else {
+                tail.next = list2;
+                list2 = list2.next;
+            }
+
+            tail = tail.next;
+        }
+        if(list1 != null){
+            tail.next = list1;
+        }else{
+            tail.next = list2;
+        }
+        return dummy.next;
+    }
 
     public static void main(String[] args) {
         NodeList list = new NodeList();
@@ -132,6 +155,11 @@ public class NodeList{
         list.print();
         System.out.println("search " + list.search( 1));
         System.out.println("Size "  + list.length());
-
+        NodeList list1 = new NodeList();
+        list1.addAtLast(2);
+        list1.addAtLast(3);
+        list1.addAtLast(4);
+        list1.addAtLast(5);
+        list.mergeSortedList(list.head, list1.head);
     }
 }
